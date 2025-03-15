@@ -5,6 +5,8 @@
  * We repeat this process until we find the minimum element.
  */
 
+//Time complexity - O(log n)
+//Space complexity - O(1)
 
 //Leetcode - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 

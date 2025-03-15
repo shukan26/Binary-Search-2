@@ -5,6 +5,9 @@
  * We eliminate half of the array by comaring mid to its neighbors and/or moving towards where the potential peak is.
  */
 
+//Time complexity - O(log n)
+//Space complexity - O(1)
+
 // Problem Link - https://leetcode.com/problems/find-peak-element/description/
 public class FindPeakElement {
     public int findPeakElement(int[] nums) {
